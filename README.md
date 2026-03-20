@@ -1,20 +1,44 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+﻿Une application web interactive pour créer, manipuler et animer des formes au format SVG en temps réel.
 
-# Run and deploy your AI Studio app
+## 🚀 Démo en ligne
+Vous pouvez tester l'application directement ici :  
+👉 **[Lancer AnimSVG Studio](https://gitie2024.github.io/anim-svg-V2/)**
 
-This contains everything you need to run your app locally.
+## ✨ Fonctionnalités
+* **Création de formes** : Rectangles, cercles, triangles, polygones, lignes et tracés (path).
+* **Éditeur de propriétés** : Modifiez la position, la taille, la rotation et les couleurs (fond et contour).
+* **Animations** : Appliquez des animations prédéfinies à vos éléments.
+* **Export** : Récupérez le code SVG ou HTML de vos créations.
 
-View your app in AI Studio: https://ai.studio/apps/17a13606-04e4-4168-963f-833214637f29
+## 🛠️ Installation (Développement)
+Si vous souhaitez cloner ce projet et le lancer localement ou dans un Codespace :
 
-## Run Locally
+1. Clonez le dépôt :
+   ```bash
+   git clone [https://github.com/Gitie2024/anim-svg-V2.git](https://github.com/Gitie2024/anim-svg-V2.git)
+Installez les dépendances :
 
-**Prerequisites:**  Node.js
+Bash
+
+npm install
+Lancez le serveur de développement :
+
+Bash
+
+npm run dev
+🧰 Technologies utilisées
+React
+
+Vite
+
+TypeScript
+
+Tailwind CSS
+
+Lucide React (pour les icônes)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+`![Capture d'écran de l'application]
+(./application anim-svg-`![Capture d'écran de l'application](./nom-de-ton-image.png)`.png)`
