@@ -38,7 +38,4 @@ Tailwind CSS
 Lucide React (pour les icônes)
 
 
----
-
-`![Capture d'écran de l'application]
-./application anim-svg-`![Capture d'écran de l'application](./application anim-svg-V2.png)`
+`![Capture d'écran de l'application](./application anim-svg-V2.png)`
