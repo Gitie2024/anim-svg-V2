@@ -1,0 +1,5 @@
+{
+  "name": "AnimSVG Studio",
+  "description": "A responsive SVG animation studio. Create, import, and animate vector shapes. Features AI-powered shape generation and high-quality image generation using Gemini.",
+  "requestFramePermissions": []
+}
