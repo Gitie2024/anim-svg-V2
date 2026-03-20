@@ -41,4 +41,4 @@ Lucide React (pour les icônes)
 ---
 
 `![Capture d'écran de l'application]
-(./application anim-svg-`![Capture d'écran de l'application](./nom-de-ton-image.png)`.png)`
+./application anim-svg-`![Capture d'écran de l'application](./application anim-svg-V2.png)`
